@@ -1,0 +1,38 @@
+#main {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
+
+main {
+  text-align: center;
+}
+
+#image {
+  margin: 1em auto;
+}
+
+ul {
+  display: inline-block;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+}
